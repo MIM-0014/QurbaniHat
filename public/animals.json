@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Deshi Shahi Cow",
+    "type": "Cow",
+    "breed": "Local Deshi",
+    "price": 120000,
+    "weight": 280,
+    "age": 3,
+    "location": "Bogura",
+    "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural food.",
+    "image": "https://i.ibb.co.com/7x4VgG1/cow1.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 2,
+    "name": "Australian Friesian Cow",
+    "type": "Cow",
+    "breed": "Friesian",
+    "price": 220000,
+    "weight": 450,
+    "age": 4,
+    "location": "Rajshahi",
+    "description": "Premium quality imported breed with excellent health.",
+    "image": "https://i.ibb.co.com/8KpQn6P/cow2.jpg",
+    "category": "Premium Animal"
+  },
+  {
+    "id": 3,
+    "name": "Black Bengal Goat",
+    "type": "Goat",
+    "breed": "Black Bengal",
+    "price": 18000,
+    "weight": 35,
+    "age": 2,
+    "location": "Kushtia",
+    "description": "Popular Bangladeshi breed known for quality meat.",
+    "image": "https://i.ibb.co.com/jLQfQ6S/goat1.jpg",
+    "category": "Small Animal"
+  },
+  {
+    "id": 4,
+    "name": "Jamunapari Goat",
+    "type": "Goat",
+    "breed": "Jamunapari",
+    "price": 35000,
+    "weight": 60,
+    "age": 3,
+    "location": "Dhaka",
+    "description": "Large and healthy goat ideal for Qurbani.",
+    "image": "https://i.ibb.co.com/4s9gG2L/goat2.jpg",
+    "category": "Premium Animal"
+  },
+  {
+    "id": 5,
+    "name": "Sahiwal Cow",
+    "type": "Cow",
+    "breed": "Sahiwal",
+    "price": 180000,
+    "weight": 400,
+    "age": 5,
+    "location": "Pabna",
+    "description": "Strong and healthy breed with high meat yield.",
+    "image": "https://i.ibb.co.com/4fQk9Qv/cow3.jpg",
+    "category": "Large Animal"
+  },
+  {
+    "id": 6,
+    "name": "Boer Goat",
+    "type": "Goat",
+    "breed": "Boer",
+    "price": 45000,
+    "weight": 70,
+    "age": 2,
+    "location": "Chattogram",
+    "description": "Imported breed with superior size and meat quality.",
+    "image": "https://i.ibb.co.com/tcKkX7X/goat3.jpg",
+    "category": "Premium Animal"
+  }
+]
